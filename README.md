@@ -4,7 +4,7 @@
 
 This is an application based on android platform, to get the flavour of artificial intelligence in the world of art. There is lot of research going on this area & lots of 
 Paper published. This is basically the implementation of “A neural algorithm of artistic style” which uses “Generative Adversarial Neural Network” to generate the images with 
-Mixed style of given input.
+Mixed style of given input. check my [blog](https://medium.com/@kaleajit27/ive-been-waiting-to-do-this-for-very-long-time-6813ee5e091) on this for further understanding.
 
 # Goals achieved
 Goals of this attempt was to create the application for real-time video & image style 
@@ -21,8 +21,7 @@ Processed images
  1. Renderscript framework developed by android to run computationally intensive task.
  2. Convolutional Neural Network to implement the artistic style transfer method using renderscript & its java api
  3. Android studio interface to integrate this all with gui
-
-
+ 
  # References:
  1. https://github.com/mtmd/Mobile_ConvNet 
  2. Google android developer renderscript documentation
