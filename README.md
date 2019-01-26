@@ -14,6 +14,11 @@ Transfer.
 Processed images
 # Demo
  https://www.youtube.com/watch?v=qtmmXNjGEYI
+ 
+# Installation
+ 1. Provided .apk file to directly install in android phone(pass: monademry, if ask any)
+ 2. To build & run the code import android folder in android studio & then run it
+
 # Compatibility
  1. Supports Android 5.0 and above (better performance in nougat & above)
  2. Google api 25 & above
